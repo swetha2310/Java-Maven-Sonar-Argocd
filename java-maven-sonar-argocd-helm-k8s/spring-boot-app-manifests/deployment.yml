@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: abhishekf5/ultimate-cicd:replaceImageTag
+        image: swetha23/helloworldmaven_0.1:2.0.0
         ports:
         - containerPort: 8080
